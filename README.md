@@ -1,2 +1,2 @@
 # NR-s-Cafe-website
-Create a website useing html , css and javascript.
+Create a website using html , css and javascript.
